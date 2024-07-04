@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Latih3_CollectionTest/1.0.0": {
+        "runtime": {
+          "Latih3_CollectionTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Latih3_CollectionTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

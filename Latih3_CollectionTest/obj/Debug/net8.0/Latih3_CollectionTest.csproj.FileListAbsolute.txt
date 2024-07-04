@@ -1,0 +1,14 @@
+D:\PKL\Latih3_CollectionTest\Latih3_CollectionTest\bin\Debug\net8.0\Latih3_CollectionTest.exe
+D:\PKL\Latih3_CollectionTest\Latih3_CollectionTest\bin\Debug\net8.0\Latih3_CollectionTest.deps.json
+D:\PKL\Latih3_CollectionTest\Latih3_CollectionTest\bin\Debug\net8.0\Latih3_CollectionTest.runtimeconfig.json
+D:\PKL\Latih3_CollectionTest\Latih3_CollectionTest\bin\Debug\net8.0\Latih3_CollectionTest.dll
+D:\PKL\Latih3_CollectionTest\Latih3_CollectionTest\bin\Debug\net8.0\Latih3_CollectionTest.pdb
+D:\PKL\Latih3_CollectionTest\Latih3_CollectionTest\obj\Debug\net8.0\Latih3_CollectionTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\PKL\Latih3_CollectionTest\Latih3_CollectionTest\obj\Debug\net8.0\Latih3_CollectionTest.AssemblyInfoInputs.cache
+D:\PKL\Latih3_CollectionTest\Latih3_CollectionTest\obj\Debug\net8.0\Latih3_CollectionTest.AssemblyInfo.cs
+D:\PKL\Latih3_CollectionTest\Latih3_CollectionTest\obj\Debug\net8.0\Latih3_CollectionTest.csproj.CoreCompileInputs.cache
+D:\PKL\Latih3_CollectionTest\Latih3_CollectionTest\obj\Debug\net8.0\Latih3_CollectionTest.dll
+D:\PKL\Latih3_CollectionTest\Latih3_CollectionTest\obj\Debug\net8.0\refint\Latih3_CollectionTest.dll
+D:\PKL\Latih3_CollectionTest\Latih3_CollectionTest\obj\Debug\net8.0\Latih3_CollectionTest.pdb
+D:\PKL\Latih3_CollectionTest\Latih3_CollectionTest\obj\Debug\net8.0\Latih3_CollectionTest.genruntimeconfig.cache
+D:\PKL\Latih3_CollectionTest\Latih3_CollectionTest\obj\Debug\net8.0\ref\Latih3_CollectionTest.dll
