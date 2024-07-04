@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Latih6_ControlWinFormCmboBox/1.0.0": {
+        "runtime": {
+          "Latih6_ControlWinFormCmboBox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Latih6_ControlWinFormCmboBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
