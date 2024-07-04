@@ -1,0 +1,14 @@
+D:\PKL\Latih5_DataListObject\Latih5_DataListObject\bin\Debug\net8.0\Latih5_DataListObject.exe
+D:\PKL\Latih5_DataListObject\Latih5_DataListObject\bin\Debug\net8.0\Latih5_DataListObject.deps.json
+D:\PKL\Latih5_DataListObject\Latih5_DataListObject\bin\Debug\net8.0\Latih5_DataListObject.runtimeconfig.json
+D:\PKL\Latih5_DataListObject\Latih5_DataListObject\bin\Debug\net8.0\Latih5_DataListObject.dll
+D:\PKL\Latih5_DataListObject\Latih5_DataListObject\bin\Debug\net8.0\Latih5_DataListObject.pdb
+D:\PKL\Latih5_DataListObject\Latih5_DataListObject\obj\Debug\net8.0\Latih5_DataListObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\PKL\Latih5_DataListObject\Latih5_DataListObject\obj\Debug\net8.0\Latih5_DataListObject.AssemblyInfoInputs.cache
+D:\PKL\Latih5_DataListObject\Latih5_DataListObject\obj\Debug\net8.0\Latih5_DataListObject.AssemblyInfo.cs
+D:\PKL\Latih5_DataListObject\Latih5_DataListObject\obj\Debug\net8.0\Latih5_DataListObject.csproj.CoreCompileInputs.cache
+D:\PKL\Latih5_DataListObject\Latih5_DataListObject\obj\Debug\net8.0\Latih5_DataListObject.dll
+D:\PKL\Latih5_DataListObject\Latih5_DataListObject\obj\Debug\net8.0\refint\Latih5_DataListObject.dll
+D:\PKL\Latih5_DataListObject\Latih5_DataListObject\obj\Debug\net8.0\Latih5_DataListObject.pdb
+D:\PKL\Latih5_DataListObject\Latih5_DataListObject\obj\Debug\net8.0\Latih5_DataListObject.genruntimeconfig.cache
+D:\PKL\Latih5_DataListObject\Latih5_DataListObject\obj\Debug\net8.0\ref\Latih5_DataListObject.dll

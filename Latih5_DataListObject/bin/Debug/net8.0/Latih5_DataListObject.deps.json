@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Latih5_DataListObject/1.0.0": {
+        "runtime": {
+          "Latih5_DataListObject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Latih5_DataListObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
