@@ -1,0 +1,14 @@
+D:\PKL\Latih4_TipeDataObject\Latih4_TipeDataObject\bin\Debug\net8.0\Latih4_TipeDataObject.exe
+D:\PKL\Latih4_TipeDataObject\Latih4_TipeDataObject\bin\Debug\net8.0\Latih4_TipeDataObject.deps.json
+D:\PKL\Latih4_TipeDataObject\Latih4_TipeDataObject\bin\Debug\net8.0\Latih4_TipeDataObject.runtimeconfig.json
+D:\PKL\Latih4_TipeDataObject\Latih4_TipeDataObject\bin\Debug\net8.0\Latih4_TipeDataObject.dll
+D:\PKL\Latih4_TipeDataObject\Latih4_TipeDataObject\bin\Debug\net8.0\Latih4_TipeDataObject.pdb
+D:\PKL\Latih4_TipeDataObject\Latih4_TipeDataObject\obj\Debug\net8.0\Latih4_TipeDataObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\PKL\Latih4_TipeDataObject\Latih4_TipeDataObject\obj\Debug\net8.0\Latih4_TipeDataObject.AssemblyInfoInputs.cache
+D:\PKL\Latih4_TipeDataObject\Latih4_TipeDataObject\obj\Debug\net8.0\Latih4_TipeDataObject.AssemblyInfo.cs
+D:\PKL\Latih4_TipeDataObject\Latih4_TipeDataObject\obj\Debug\net8.0\Latih4_TipeDataObject.csproj.CoreCompileInputs.cache
+D:\PKL\Latih4_TipeDataObject\Latih4_TipeDataObject\obj\Debug\net8.0\Latih4_TipeDataObject.dll
+D:\PKL\Latih4_TipeDataObject\Latih4_TipeDataObject\obj\Debug\net8.0\refint\Latih4_TipeDataObject.dll
+D:\PKL\Latih4_TipeDataObject\Latih4_TipeDataObject\obj\Debug\net8.0\Latih4_TipeDataObject.pdb
+D:\PKL\Latih4_TipeDataObject\Latih4_TipeDataObject\obj\Debug\net8.0\Latih4_TipeDataObject.genruntimeconfig.cache
+D:\PKL\Latih4_TipeDataObject\Latih4_TipeDataObject\obj\Debug\net8.0\ref\Latih4_TipeDataObject.dll
