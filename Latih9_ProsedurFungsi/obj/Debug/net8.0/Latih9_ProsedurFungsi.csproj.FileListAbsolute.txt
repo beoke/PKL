@@ -1,0 +1,14 @@
+D:\PKL\Latih9_ProsedurFungsi\Latih9_ProsedurFungsi\bin\Debug\net8.0\Latih9_ProsedurFungsi.exe
+D:\PKL\Latih9_ProsedurFungsi\Latih9_ProsedurFungsi\bin\Debug\net8.0\Latih9_ProsedurFungsi.deps.json
+D:\PKL\Latih9_ProsedurFungsi\Latih9_ProsedurFungsi\bin\Debug\net8.0\Latih9_ProsedurFungsi.runtimeconfig.json
+D:\PKL\Latih9_ProsedurFungsi\Latih9_ProsedurFungsi\bin\Debug\net8.0\Latih9_ProsedurFungsi.dll
+D:\PKL\Latih9_ProsedurFungsi\Latih9_ProsedurFungsi\bin\Debug\net8.0\Latih9_ProsedurFungsi.pdb
+D:\PKL\Latih9_ProsedurFungsi\Latih9_ProsedurFungsi\obj\Debug\net8.0\Latih9_ProsedurFungsi.GeneratedMSBuildEditorConfig.editorconfig
+D:\PKL\Latih9_ProsedurFungsi\Latih9_ProsedurFungsi\obj\Debug\net8.0\Latih9_ProsedurFungsi.AssemblyInfoInputs.cache
+D:\PKL\Latih9_ProsedurFungsi\Latih9_ProsedurFungsi\obj\Debug\net8.0\Latih9_ProsedurFungsi.AssemblyInfo.cs
+D:\PKL\Latih9_ProsedurFungsi\Latih9_ProsedurFungsi\obj\Debug\net8.0\Latih9_ProsedurFungsi.csproj.CoreCompileInputs.cache
+D:\PKL\Latih9_ProsedurFungsi\Latih9_ProsedurFungsi\obj\Debug\net8.0\Latih9_ProsedurFungsi.dll
+D:\PKL\Latih9_ProsedurFungsi\Latih9_ProsedurFungsi\obj\Debug\net8.0\refint\Latih9_ProsedurFungsi.dll
+D:\PKL\Latih9_ProsedurFungsi\Latih9_ProsedurFungsi\obj\Debug\net8.0\Latih9_ProsedurFungsi.pdb
+D:\PKL\Latih9_ProsedurFungsi\Latih9_ProsedurFungsi\obj\Debug\net8.0\Latih9_ProsedurFungsi.genruntimeconfig.cache
+D:\PKL\Latih9_ProsedurFungsi\Latih9_ProsedurFungsi\obj\Debug\net8.0\ref\Latih9_ProsedurFungsi.dll
