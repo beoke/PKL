@@ -1,0 +1,17 @@
+D:\PKL\Latih8_WinformEvent\Latih8_WinformEvent\obj\Debug\net8.0-windows\Latih8_WinformEvent.Form1.resources
+D:\PKL\Latih8_WinformEvent\Latih8_WinformEvent\obj\Debug\net8.0-windows\Latih8_WinformEvent.csproj.GenerateResource.cache
+D:\PKL\Latih8_WinformEvent\Latih8_WinformEvent\obj\Debug\net8.0-windows\Latih8_WinformEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\PKL\Latih8_WinformEvent\Latih8_WinformEvent\obj\Debug\net8.0-windows\Latih8_WinformEvent.AssemblyInfoInputs.cache
+D:\PKL\Latih8_WinformEvent\Latih8_WinformEvent\obj\Debug\net8.0-windows\Latih8_WinformEvent.AssemblyInfo.cs
+D:\PKL\Latih8_WinformEvent\Latih8_WinformEvent\obj\Debug\net8.0-windows\Latih8_WinformEvent.csproj.CoreCompileInputs.cache
+D:\PKL\Latih8_WinformEvent\Latih8_WinformEvent\bin\Debug\net8.0-windows\Latih8_WinformEvent.exe
+D:\PKL\Latih8_WinformEvent\Latih8_WinformEvent\bin\Debug\net8.0-windows\Latih8_WinformEvent.deps.json
+D:\PKL\Latih8_WinformEvent\Latih8_WinformEvent\bin\Debug\net8.0-windows\Latih8_WinformEvent.runtimeconfig.json
+D:\PKL\Latih8_WinformEvent\Latih8_WinformEvent\bin\Debug\net8.0-windows\Latih8_WinformEvent.dll
+D:\PKL\Latih8_WinformEvent\Latih8_WinformEvent\bin\Debug\net8.0-windows\Latih8_WinformEvent.pdb
+D:\PKL\Latih8_WinformEvent\Latih8_WinformEvent\obj\Debug\net8.0-windows\Latih8_WinformEvent.dll
+D:\PKL\Latih8_WinformEvent\Latih8_WinformEvent\obj\Debug\net8.0-windows\refint\Latih8_WinformEvent.dll
+D:\PKL\Latih8_WinformEvent\Latih8_WinformEvent\obj\Debug\net8.0-windows\Latih8_WinformEvent.pdb
+D:\PKL\Latih8_WinformEvent\Latih8_WinformEvent\obj\Debug\net8.0-windows\Latih8_WinformEvent.genruntimeconfig.cache
+D:\PKL\Latih8_WinformEvent\Latih8_WinformEvent\obj\Debug\net8.0-windows\ref\Latih8_WinformEvent.dll
+D:\PKL\Latih8_WinformEvent\Latih8_WinformEvent\obj\Debug\net8.0-windows\Latih8_WinformEvent.sourcelink.json
