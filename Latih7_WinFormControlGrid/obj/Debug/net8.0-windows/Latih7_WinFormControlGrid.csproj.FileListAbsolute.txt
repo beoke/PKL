@@ -1,0 +1,17 @@
+D:\PKL\Latih7_WinFormControlGrid\Latih7_WinFormControlGrid\bin\Debug\net8.0-windows\Latih7_WinFormControlGrid.exe
+D:\PKL\Latih7_WinFormControlGrid\Latih7_WinFormControlGrid\bin\Debug\net8.0-windows\Latih7_WinFormControlGrid.deps.json
+D:\PKL\Latih7_WinFormControlGrid\Latih7_WinFormControlGrid\bin\Debug\net8.0-windows\Latih7_WinFormControlGrid.runtimeconfig.json
+D:\PKL\Latih7_WinFormControlGrid\Latih7_WinFormControlGrid\bin\Debug\net8.0-windows\Latih7_WinFormControlGrid.dll
+D:\PKL\Latih7_WinFormControlGrid\Latih7_WinFormControlGrid\bin\Debug\net8.0-windows\Latih7_WinFormControlGrid.pdb
+D:\PKL\Latih7_WinFormControlGrid\Latih7_WinFormControlGrid\obj\Debug\net8.0-windows\Latih7_WinFormControlGrid.Form1.resources
+D:\PKL\Latih7_WinFormControlGrid\Latih7_WinFormControlGrid\obj\Debug\net8.0-windows\Latih7_WinFormControlGrid.csproj.GenerateResource.cache
+D:\PKL\Latih7_WinFormControlGrid\Latih7_WinFormControlGrid\obj\Debug\net8.0-windows\Latih7_WinFormControlGrid.GeneratedMSBuildEditorConfig.editorconfig
+D:\PKL\Latih7_WinFormControlGrid\Latih7_WinFormControlGrid\obj\Debug\net8.0-windows\Latih7_WinFormControlGrid.AssemblyInfoInputs.cache
+D:\PKL\Latih7_WinFormControlGrid\Latih7_WinFormControlGrid\obj\Debug\net8.0-windows\Latih7_WinFormControlGrid.AssemblyInfo.cs
+D:\PKL\Latih7_WinFormControlGrid\Latih7_WinFormControlGrid\obj\Debug\net8.0-windows\Latih7_WinFormControlGrid.csproj.CoreCompileInputs.cache
+D:\PKL\Latih7_WinFormControlGrid\Latih7_WinFormControlGrid\obj\Debug\net8.0-windows\Latih7_WinFormControlGrid.dll
+D:\PKL\Latih7_WinFormControlGrid\Latih7_WinFormControlGrid\obj\Debug\net8.0-windows\refint\Latih7_WinFormControlGrid.dll
+D:\PKL\Latih7_WinFormControlGrid\Latih7_WinFormControlGrid\obj\Debug\net8.0-windows\Latih7_WinFormControlGrid.pdb
+D:\PKL\Latih7_WinFormControlGrid\Latih7_WinFormControlGrid\obj\Debug\net8.0-windows\Latih7_WinFormControlGrid.genruntimeconfig.cache
+D:\PKL\Latih7_WinFormControlGrid\Latih7_WinFormControlGrid\obj\Debug\net8.0-windows\ref\Latih7_WinFormControlGrid.dll
+D:\PKL\Latih7_WinFormControlGrid\Latih7_WinFormControlGrid\obj\Debug\net8.0-windows\Latih7_WinFormControlGrid.sourcelink.json
